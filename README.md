@@ -1,6 +1,6 @@
 # BitBar Plugins
 
-## What's BitBar
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [BitBar](https://getbitbar.com), developed by [Mat Ryer (@matryer)](https://twitter.com/matryer), lets you put the output from any script/program in your macOS Menu Bar.
 
