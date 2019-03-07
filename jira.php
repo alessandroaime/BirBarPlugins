@@ -34,7 +34,7 @@ $projectIndex = -1;
 $issueIndex = 0;
 
 foreach ($json['issues'] as $issue) {
-  if($issue['fields']['status']['statusCategory']['id'] == 5) {
+  if($issue['fields']['status']['statusCategory']['id'] == 2) {
     if($projectId != $issue['fields']['project']['id']) {
       $projectId = $issue['fields']['project']['id'];
       $projectIndex += 1;
